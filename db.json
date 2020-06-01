@@ -2,25 +2,106 @@
     "categories": [
         {
             "id": 1,
-            "title": "Startup",
-            "test" : [
+            "title": "Main",
+            "infos": "",
+            "companies": [
                 {
-                    "a" : 1,
-                    "b" : 2
-                },
-                {
-                    "c" : 1,
-                    "d" : 2
+                    "id": 1,
+                    "company_name": "L'Usine",
+                    "infos": "Bla, bla, bla"
                 }
             ]
         },
         {
             "id": 2,
-            "title": "Partenaires"
+            "title": "Startup",
+            "infos": "Bla",
+            "companies": [
+                {
+                    "id": 2,
+                    "company_name": "MyMiaou",
+                    "infos": "Bla, bla, bla"
+                },
+                {
+                    "id": 3,
+                    "company_name": "GroKmion",
+                    "infos": "Bla, bla, bla"
+                }
+            ]
         },
         {
             "id": 3,
-            "title": "Food Truck"
+            "title": "Food Truck",
+            "infos": "Bla",
+            "companies": [
+                {
+                    "id": 4,
+                    "company_name": "Sushizza",
+                    "infos": "Bla, bla, bla"
+                },
+                {
+                    "id": 5,
+                    "company_name": "Bui Bui",
+                    "infos": "Bla, bla, bla"
+                }
+            ]
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "company_name": "L'Usine",
+            "infos": "Bla, bla, bla",
+            "category":
+            {
+                "id": 1,
+                "title": "Main",
+                "infos": ""
+            }
+        },
+        {
+            "id": 2,
+            "company_name": "MyMiaou",
+            "infos": "Bla, bla, bla",
+            "category":
+            {
+                "id": 2,
+                "title": "Startup",
+                "infos": "Bla, bla, bla"
+            }
+        },
+        {
+            "id": 3,
+            "company_name": "GroKmion",
+            "infos": "Bla, bla, bla",
+            "category":
+            {
+                "id": 2,
+                "title": "Startup",
+                "infos": "Bla, bla, bla"
+            }
+        },
+        {
+            "id": 4,
+            "company_name": "Sushizza",
+            "infos": "Bla, bla, bla",
+            "category":
+            {
+                "id": 3,
+                "title": "Food Truck",
+                "infos": "Bla, bla, bla"
+            }
+        },
+        {
+            "id": 4,
+            "company_name": "Bui Bui",
+            "infos": "Bla, bla, bla",
+            "category":
+            {
+                "id": 3,
+                "title": "Food Truck",
+                "infos": "Bla, bla, bla"
+            }
         }
     ]
 }
