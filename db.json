@@ -46,11 +46,11 @@
             "Companies": [
                 {
                     "id" : 3,
-                    "name": "Sushizza",
+                    "name": "Sushizza"
                 },
                 {
                     "id" : 4,
-                    "name": "Rawwww",
+                    "name": "Rawwww"
                 }
             ]
         }
