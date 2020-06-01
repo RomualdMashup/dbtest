@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Startup"
+        },
+        {
+            "id": 2,
+            "title": "Partenaires"
+        },
+        {
+            "id": 3,
+            "title": "Food Truck"
+        }
+    ],
+    "Companies": [
+        {
+            "id" : 1,
+            "name": "MyMiaou",
+            "category_id": 1
+        },
+        {
+            "id" : 2,
+            "name": "GroKmion",
+            "category_id": 1
+        }
+    ]
+}
