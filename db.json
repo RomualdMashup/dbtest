@@ -24,5 +24,35 @@
             "name": "GroKmion",
             "category_id": 1
         }
-    ]
+    ],
+    "Categories2": [
+        {
+            "id": 1,
+            "title": "Startup",
+            "Companies": [
+                {
+                    "id" : 1,
+                    "name": "MyMiaou",
+                },
+                {
+                    "id" : 2,
+                    "name": "GroKmion",
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Food Truck",
+            "Companies": [
+                {
+                    "id" : 3,
+                    "name": "Sushizza",
+                },
+                {
+                    "id" : 4,
+                    "name": "Rawwww",
+                }
+            ]
+        }
+    ]    
 }
