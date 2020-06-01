@@ -2,7 +2,8 @@
     "categories": [
         {
             "id": 1,
-            "title": "Startup"
+            "title": "Startup",
+            "test" : [1,2,3]
         },
         {
             "id": 2,
