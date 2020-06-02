@@ -3,46 +3,63 @@
         {
             "id": 1,
             "title": "Main",
-            "infos": "",
+            "description": "qdqsdqdqsdqsdqcs",
             "companies": [
                 {
                     "id": 1,
                     "company_name": "L'Usine",
-                    "infos": "Bla, bla, bla"
+                    "description": "Bla, bla, bla"
                 }
             ]
         },
         {
             "id": 2,
             "title": "Startup",
-            "infos": "Bla",
+            "description": "Bla",
             "companies": [
                 {
                     "id": 2,
                     "company_name": "MyMiaou",
-                    "infos": "Bla, bla, bla"
+                    "description": "Bla, bla, bla"
                 },
                 {
                     "id": 3,
                     "company_name": "GroKmion",
-                    "infos": "Bla, bla, bla"
+                    "description": "Bla, bla, bla"
                 }
             ]
         },
         {
             "id": 3,
             "title": "Food Truck",
-            "infos": "Bla",
+            "description": "Blaqsdqdq",
             "companies": [
                 {
                     "id": 4,
                     "company_name": "Sushizza",
-                    "infos": "Bla, bla, bla"
+                    "description": "Bla, bla, bla"
                 },
                 {
                     "id": 5,
                     "company_name": "Bui Bui",
-                    "infos": "Bla, bla, bla"
+                    "description": "Bla, bla, bla"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Partner",
+            "description": "Blannxxbxbj",
+            "companies": [
+                {
+                    "id": 4,
+                    "company_name": "seomasterz",
+                    "description": "Bla, bla, bla"
+                },
+                {
+                    "id": 5,
+                    "company_name": "lavoca",
+                    "description": "Bla, bla, bla"
                 }
             ]
         }
@@ -50,301 +67,364 @@
     "companies": [
         {
             "id": 1,
-            "company_name": "L'Usine",
-            "infos": "Bla, bla, bla",
-            "category":
-            {
+            "name": "L'Usine",
+            "cardComponent": "CieCard",
+            "slogan": "Bien plus qu'une appli de rencontre",
+            "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "website": "www.lesite.com",
+            "adress": {
+                "streetAdress": "12 route des Industries",
+                "zip": "45680",
+                "city": "Dordives"
+            },
+            "category": {
                 "id": 1,
                 "title": "Main",
-                "infos": ""
+                "description": "sfsqfsdf"
             },
             "cards": [
                 {
                     "id": 1,
-                    "type": "Business card",
+                    "type": "business",
                     "title": "Carte de visite de XXX",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "firstname": "Roy",
+                    "lastname": "Horn",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg",
+                    "job": "directeur",
+                    "email": "royhorn@gmail.com",
+                    "phone": "0655555555"
                 },
                 {
                     "id": 2,
-                    "type": "Business card",
+                    "type": "business",
                     "title": "Carte de visite de YYY",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "firstname": "Roy",
+                    "lastname": "Horn",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg",
+                    "job": "directeur",
+                    "email": "royhorn@gmail.com",
+                    "phone": "0655555555"
                 },
                 {
                     "id": 3,
-                    "type": "Media",
+                    "type": "media",
                     "title": "Presentation de l'Usine",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 }
             ]
         },
         {
             "id": 2,
-            "company_name": "MyMiaou",
-            "infos": "Bla, bla, bla",
-            "category":
-            {
+            "name": "MyMiaou",
+            "cardComponent": "CieCard",
+            "slogan": "Bien plus qu'une appli de rencontre",
+            "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "website": "www.lesite.com",
+            "adress": {
+                "streetAdress": "12 route des Industries",
+                "zip": "45680",
+                "city": "Dordives"
+            },
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
             "cards": [
                 {
                     "id": 4,
-                    "type": "Business card",
+                    "type": "business",
                     "title": "Carte de visite de ZZZ",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "firstname": "Roy",
+                    "lastname": "Horn",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg",
+                    "job": "directeur",
+                    "email": "royhorn@gmail.com",
+                    "phone": "0655555555"
                 },
                 {
                     "id": 5,
-                    "type": "Business card",
+                    "type": "business",
                     "title": "Carte de visite de AAA",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "firstname": "Roy",
+                    "lastname": "Horn",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg",
+                    "job": "directeur",
+                    "email": "royhorn@gmail.com",
+                    "phone": "0655555555"
                 },
                 {
                     "id": 6,
-                    "type": "Media",
+                    "type": "media",
                     "title": "Business plan de Mymiaou",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 }
             ]
         },
         {
             "id": 3,
-            "company_name": "GroKmion",
-            "infos": "Bla, bla, bla",
-            "category":
-            {
+            "name": "GroKmion",
+            "cardComponent": "CieCard",
+            "slogan": "Bien plus qu'une appli de rencontre",
+            "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "website": "www.lesite.com",
+            "adress": {
+                "streetAdress": "12 route des Industries",
+                "zip": "45680",
+                "city": "Dordives"
+            },
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
             "cards": [
                 {
                     "id": 7,
-                    "type": "Business card",
+                    "type": "business",
                     "title": "Carte de visite de BBB",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "firstname": "Roy",
+                    "lastname": "Horn",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg",
+                    "job": "directeur",
+                    "email": "royhorn@gmail.com",
+                    "phone": "0655555555"
                 },
                 {
                     "id": 8,
-                    "type": "Media",
+                    "type": "media",
                     "title": "Video de camion",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 }
             ]
         },
         {
             "id": 4,
-            "company_name": "Sushizza",
-            "infos": "Bla, bla, bla",
-            "category":
-            {
+            "name": "Sushizza",
+            "cardComponent": "CieCard",
+            "slogan": "Bien plus qu'une appli de rencontre",
+            "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "website": "www.lesite.com",
+            "adress": {
+                "streetAdress": "12 route des Industries",
+                "zip": "45680",
+                "city": "Dordives"
+            },
+            "category": {
                 "id": 3,
                 "title": "Food Truck",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
             "cards": [
                 {
                     "id": 9,
-                    "type": "Media",
+                    "type": "media",
                     "title": "Le menu",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 }
             ]
         },
         {
             "id": 5,
-            "company_name": "Bui Bui",
-            "infos": "Bla, bla, bla",
-            "category":
-            {
+            "name": "Bui Bui",
+            "cardComponent": "CieCard",
+            "slogan": "Bien plus qu'une appli de rencontre",
+            "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "website": "www.lesite.com",
+            "adress": {
+                "streetAdress": "12 route des Industries",
+                "zip": "45680",
+                "city": "Dordives"
+            },
+            "category": {
                 "id": 3,
                 "title": "Food Truck",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
             "cards": [
                 {
                     "id": 10,
-                    "type": "Media",
+                    "type": "media",
                     "title": "Le menu",
-                    "infos": "sdsfsdf"
+                    "description": "sdsfsdf",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 }
             ]
-            
         }
     ],
-    "cards":
-    [
+    "cards": [
         {
             "id": 1,
-            "type": "Business card",
+            "type": "business",
             "title": "Carte de visite de XXX",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 1,
                 "company_name": "L'Usine",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 1,
                 "title": "Main",
-                "infos": ""
+                "description": ""
             }
         },
         {
             "id": 2,
-            "type": "Business card",
+            "type": "business",
             "title": "Carte de visite de YYY",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 1,
                 "company_name": "L'Usine",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 1,
                 "title": "Main",
-                "infos": ""
+                "description": ""
             }
         },
         {
             "id": 3,
-            "type": "Media",
+            "type": "media",
             "title": "Presentation de l'Usine",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 1,
                 "company_name": "L'Usine",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 1,
                 "title": "Main",
-                "infos": ""
+                "description": ""
             }
         },
         {
             "id": 4,
-            "type": "Business card",
+            "type": "business",
             "title": "Carte de visite de ZZZ",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 2,
                 "company_name": "MyMiaou",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 5,
-            "type": "Business card",
+            "type": "business",
             "title": "Carte de visite de AAA",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 2,
                 "company_name": "MyMiaou",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 6,
-            "type": "Media",
+            "type": "media",
             "title": "Business plan de Mymiaou",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 2,
                 "company_name": "MyMiaou",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 7,
-            "type": "Business card",
+            "type": "business",
             "title": "Carte de visite de BBB",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 3,
                 "company_name": "GroKmion",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 8,
-            "type": "Media",
+            "type": "media",
             "title": "Video de camion",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 3,
                 "company_name": "GroKmion",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 2,
                 "title": "Startup",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 9,
-            "type": "Media",
+            "type": "media",
             "title": "Le menu",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 4,
                 "company_name": "Sushizza",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 3,
                 "title": "Food Truck",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         },
         {
             "id": 10,
-            "type": "Media",
+            "type": "media",
             "title": "Le menu",
-            "infos": "sdsfsdf",
+            "description": "sdsfsdf",
             "company": {
                 "id": 5,
                 "company_name": "Bui Bui",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             },
-            "category":
-            {
+            "category": {
                 "id": 3,
                 "title": "Food Truck",
-                "infos": "Bla, bla, bla"
+                "description": "Bla, bla, bla"
             }
         }
     ]
