@@ -8,7 +8,8 @@
                 {
                     "id": 1,
                     "company_name": "L'Usine",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 }
             ]
         },
@@ -18,14 +19,16 @@
             "description": "Bla",
             "companies": [
                 {
-                    "id": 2,
+                    "id": 1,
                     "company_name": "MyMiaou",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "company_name": "GroKmion",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 }
             ]
         },
@@ -35,14 +38,16 @@
             "description": "Blaqsdqdq",
             "companies": [
                 {
-                    "id": 4,
+                    "id": 1,
                     "company_name": "Sushizza",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 },
                 {
-                    "id": 5,
+                    "id": 2,
                     "company_name": "Bui Bui",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 }
             ]
         },
@@ -52,14 +57,16 @@
             "description": "Blannxxbxbj",
             "companies": [
                 {
-                    "id": 4,
+                    "id": 1,
                     "company_name": "seomasterz",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 },
                 {
-                    "id": 5,
+                    "id": 2,
                     "company_name": "lavoca",
-                    "description": "Bla, bla, bla"
+                    "description": "Bla, bla, bla",
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
                 }
             ]
         }
