@@ -7,7 +7,7 @@
             "companies": [
                 {
                     "id": 1,
-                    "company_name": "L'Usine",
+                    "name": "L'Usine",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 }
@@ -20,13 +20,13 @@
             "companies": [
                 {
                     "id": 1,
-                    "company_name": "MyMiaou",
+                    "name": "MyMiaou",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 },
                 {
                     "id": 2,
-                    "company_name": "GroKmion",
+                    "name": "GroKmion",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 }
@@ -39,13 +39,13 @@
             "companies": [
                 {
                     "id": 1,
-                    "company_name": "Sushizza",
+                    "name": "Sushizza",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 },
                 {
                     "id": 2,
-                    "company_name": "Bui Bui",
+                    "name": "Bui Bui",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 }
@@ -58,13 +58,13 @@
             "companies": [
                 {
                     "id": 1,
-                    "company_name": "seomasterz",
+                    "name": "seomasterz",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 },
                 {
                     "id": 2,
-                    "company_name": "lavoca",
+                    "name": "lavoca",
                     "description": "Bla, bla, bla",
                     "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
                 }
