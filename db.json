@@ -9,7 +9,7 @@
                     "id": 1,
                     "name": "L'Usine",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png"
                 }
             ]
         },
@@ -22,13 +22,13 @@
                     "id": 1,
                     "name": "MyMiaou",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png"
                 },
                 {
                     "id": 2,
                     "name": "GroKmion",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png"
                 }
             ]
         },
@@ -41,13 +41,13 @@
                     "id": 1,
                     "name": "Sushizza",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png"
                 },
                 {
                     "id": 2,
                     "name": "Bui Bui",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png"
                 }
             ]
         },
@@ -60,7 +60,7 @@
                     "id": 1,
                     "name": "seomasterz",
                     "description": "Bla, bla, bla",
-                    "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png"
+                    "image": "http://pitchbox.mashuptable.fr/placeholder/Roy.jpg"
                 },
                 {
                     "id": 2,
@@ -130,7 +130,7 @@
             "cardComponent": "CieCard",
             "slogan": "Bien plus qu'une appli de rencontre",
             "description": "Startup scrum project hypotheses handshake crowdfunding supply chain research & development. Accelerator long tail iteration entrepreneur.",
-            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/blablaq.png",
+            "image": "http://pitchbox.mashuptable.fr/placeholder/logos/Buzwordz.png",
             "website": "www.lesite.com",
             "adress": {
                 "streetAdress": "12 route des Industries",
